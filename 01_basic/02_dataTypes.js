@@ -8,6 +8,9 @@ let name = "ritik";
 let age = 18;
 let isLoggedIn = false;
 
+
+// Premitive data types:->
+
 // number => 2 to power 53
 // bigint 
 // string => " "
